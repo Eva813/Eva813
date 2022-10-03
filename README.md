@@ -4,12 +4,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/Eva813"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+  <a href="https://github.com/Eva813"><img src="https://github-readme-stats.vercel.app/api?username=eva813&hide_border=true&show_icons=true" alt="eva813's github stats"></a>
 </p>
 
 <p align="center">
   <strong><a href="https://eva813.github.io">Official Website</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+  <strong><a href="https://discord.gg/Evachan#5729">Discord</a></strong> |
   <strong><a href="https://www.linkedin.com/in/eva-chan-671b82156/">LinkedIn</a></strong> |
 </p>
 
