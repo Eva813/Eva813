@@ -11,15 +11,22 @@
 <br />
 <br />
 
-<p align="center">
-  <a href="https://github.com/Eva813"><img src="https://github-readme-stats.vercel.app/api?username=eva813&hide_border=true&show_icons=true" alt="eva813's github stats"></a>
-</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eva813&show_icons=true&locale=en&layout=compact" alt="eva813" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eva813&show_icons=true&locale=en" alt="eva813" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eva813&" alt="eva813" /></p>
+
 
 <p align="center">
   <strong><a href="https://eva813.github.io">Official Website</a></strong> |
   <strong><a href="https://discord.gg/Evachan#5729">Discord</a></strong> |
   <strong><a href="https://www.linkedin.com/in/eva-chan-671b82156/">LinkedIn</a></strong> |
 </p>
+
+
 
 
 <!--
