@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi, I'm <a href="https://eva813.github.io/">Eva</a>!</h1>
 
+<p>👋 Hi, I'm a Frontend Engineer with expertise in Vue.js, focusing on creating intuitive and responsive user interfaces. I have experience in performance optimization and front-end testing, ensuring seamless, efficient, and reliable applications.</p>
 
+<p>🌱 I'm currently enhancing my frontend skills by mastering React and exploring backend development. This journey is helping me build more cohesive full-stack applications that seamlessly integrate both client-side and server-side technologies.</p>
+
+<p> 🤝 As part of the Mantou Project, I actively support career changers in mastering new technologies and transitioning into tech roles. I thrive on collaboration, working closely with designers and developers to bring ideas to life.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
