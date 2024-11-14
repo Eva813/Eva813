@@ -10,6 +10,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [scroll snap](https://github.com/Eva813/Eva813.github.io.git/2024/10/30/scroll-snap/)
+- [自訂 Quasar 日期選擇器：實現 Year/Month 選擇功能](https://github.com/Eva813/Eva813.github.io.git/2024/08/24/quasar-monthlyPicker/)
+- [如何在前端實現文件下載：以 Excel 文件為例](https://github.com/Eva813/Eva813.github.io.git/2024/08/18/download-file/)
+- [使用 Vue3 與 Tiptap 打造文字編輯器](https://github.com/Eva813/Eva813.github.io.git/2024/07/19/vue-tiptap/)
+- [vitest-i18n](https://github.com/Eva813/Eva813.github.io.git/2024/04/27/vitest-i18n/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
