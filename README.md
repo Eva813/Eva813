@@ -10,11 +10,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [figma mcp 應用](https://eva813.github.io/2025/03/27/figma-mcp/)
+- [Vue 動態事件名稱](https://eva813.github.io/2025/03/27/vue-dynamic-event/)
 - [twilwindCss-twMerge](https://eva813.github.io/2025/03/20/twilwindCss-twMerge/)
 - [SOLID 物件導向](https://eva813.github.io/2025/02/24/Net-solid/)
 - [LINQ 進階運算子：拓展你的查詢能力](https://eva813.github.io/2025/01/24/Net-learning-4/)
-- [深入淺出 C# LINQ：讓查詢語法變得更簡單](https://eva813.github.io/2025/01/18/Net-learning-3/)
-- [C# - class 建立與使用](https://eva813.github.io/2025/01/15/Net-learning-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
