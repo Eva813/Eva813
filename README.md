@@ -10,11 +10,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React 重置技巧：React Key 與 CSS offsetWidth](https://eva813.github.io/2025/04/16/react-key-reflow/)
+- [刷題練習 - Permutation in String](https://eva813.github.io/2025/04/15/slide-window-Permutation-in-String/)
 - [side-project-zustand](https://eva813.github.io/2025/03/31/side-project-zustand/)
 - [figma mcp 應用](https://eva813.github.io/2025/03/27/figma-mcp/)
 - [Vue 動態事件名稱](https://eva813.github.io/2025/03/27/vue-dynamic-event/)
-- [twilwindCss-twMerge](https://eva813.github.io/2025/03/20/twilwindCss-twMerge/)
-- [SOLID 物件導向](https://eva813.github.io/2025/02/24/Net-solid/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
