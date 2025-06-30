@@ -10,11 +10,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [實現前端自動儲存系統：Next.js + Zustand](https://eva813.github.io/2025/06/29/frontend-auto-save/)
 - [Next.js Middleware 中的身份驗證：Edge Runtime 限制與解決方案](https://eva813.github.io/2025/05/17/side-project-EdgeRuntime/)
 - [Next.js API 與 MongoDB 設計實作：整合 NextAuth 多元驗證方式（Credentials + OAuth）](https://eva813.github.io/2025/05/17/side-project-mongoDB/)
 - [刷題練習 - Maximum Depth of Binary Tree 解題策略](https://eva813.github.io/2025/05/01/leetcode-Maximum-Depth-of-Binary-Tree/)
 - [React 重置技巧：React Key 與 CSS offsetWidth](https://eva813.github.io/2025/04/16/react-key-reflow/)
-- [刷題練習 - Permutation in String](https://eva813.github.io/2025/04/15/slide-window-Permutation-in-String/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
