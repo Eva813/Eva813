@@ -8,6 +8,23 @@
 
 <p> 🤝 As part of the CodeShibaGo Project, I actively support career changers in mastering new technologies and transitioning into tech roles. I thrive on collaboration, working closely with designers and developers to bring ideas to life.</p>
 
+## My Projects
+
+PromptBear - Advanced Prompt Management Platform
+> **Live Demo:** [PromptBear](https://linxly-nextjs.vercel.app/) | **Chrome Store:** [Extension](https://chromewebstore.google.com/detail/promptbear/afabpaicinkkgbajcjdgmocmdbajmjfm?hl=zh-TW)
+
+Tired of your AI prompts being scattered everywhere? PromptBear helps you organize them all in one place!
+
+**✨ What it does:**
+- **Smart Organization** - Keep all your prompts tidy with folders
+- **Quick Access** - Set shortcuts for your go-to prompts
+- **Parameterized Templates** - Parameterized editing with dynamic variabless 
+- **Team Collaboration** - Share and collaborate on prompt collections
+- **Visual Builder** - Drag & drop to create complex workflows  
+- **Browser Integration** - Use your prompts anywhere on the web
+
+**Architecture:** Next.js 14 App Router • Firebase/Firestore • TypeScript 
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [如何用 SeqNo 管理機制提升列表插入效能，解決排序衝突問題](https://eva813.github.io/2025/09/07/firebase-seqNo/)
