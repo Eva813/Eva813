@@ -27,11 +27,11 @@ Tired of your AI prompts being scattered everywhere? PromptBear helps you organi
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [部署至 Vercel 遇到「Unexpected token &#39;&lt;&#39;」錯誤：原因與解法](https://eva813.github.io/2025/10/04/vercel-deploy/)
+- [刷題練習 - Merge-Two-Sorted-Lists](https://eva813.github.io/2025/10/04/Merge-Two-Sorted-Lists/)
+- [刷題練習 - Determine If a Person Could Attend All Meetings](https://eva813.github.io/2025/10/04/Meetings-1/)
 - [如何用 SeqNo 管理機制提升列表插入效能，解決排序衝突問題](https://eva813.github.io/2025/09/07/firebase-seqNo/)
 - [實現前端自動儲存系統：Next.js + Zustand](https://eva813.github.io/2025/06/29/frontend-auto-save/)
-- [Next.js Middleware 中的身份驗證：Edge Runtime 限制與解決方案](https://eva813.github.io/2025/05/17/side-project-EdgeRuntime/)
-- [Next.js API 與 MongoDB 設計實作：整合 NextAuth 多元驗證方式（Credentials + OAuth）](https://eva813.github.io/2025/05/17/side-project-mongoDB/)
-- [刷題練習 - Maximum Depth of Binary Tree 解題策略](https://eva813.github.io/2025/05/01/leetcode-Maximum-Depth-of-Binary-Tree/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
