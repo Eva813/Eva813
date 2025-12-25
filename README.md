@@ -27,11 +27,11 @@ Tired of your AI prompts being scattered everywhere? PromptBear helps you organi
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [建立名片自動建檔系統（Google Drive + Sheets + Gemini）](https://eva813.github.io/2025/12/24/nameCard-nauto/)
+- [刷題練習 - Merge-Sorted-Array](https://eva813.github.io/2025/10/04/Merge-Sorted-Array/)
 - [部署至 Vercel 遇到「Unexpected token &#39;&lt;&#39;」錯誤：原因與解法](https://eva813.github.io/2025/10/04/vercel-deploy/)
 - [刷題練習 - Merge-Two-Sorted-Lists](https://eva813.github.io/2025/10/04/Merge-Two-Sorted-Lists/)
 - [刷題練習 - Determine If a Person Could Attend All Meetings](https://eva813.github.io/2025/10/04/Meetings-1/)
-- [如何用 SeqNo 管理機制提升列表插入效能，解決排序衝突問題](https://eva813.github.io/2025/09/07/firebase-seqNo/)
-- [實現前端自動儲存系統：Next.js + Zustand](https://eva813.github.io/2025/06/29/frontend-auto-save/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
