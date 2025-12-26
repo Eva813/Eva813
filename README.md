@@ -11,7 +11,7 @@
 ## My Projects
 
 PromptBear - Advanced Prompt Management Platform
-> **Live Demo:** [PromptBear](https://linxly-nextjs.vercel.app/) | **Chrome Store:** [Extension](https://chromewebstore.google.com/detail/promptbear/afabpaicinkkgbajcjdgmocmdbajmjfm?hl=zh-TW)
+> **Live Demo:** [PromptBear](https://promptbear.ai/) | **Chrome Store:** [Extension](https://chromewebstore.google.com/detail/promptbear/afabpaicinkkgbajcjdgmocmdbajmjfm?hl=zh-TW)
 
 Tired of your AI prompts being scattered everywhere? PromptBear helps you organize them all in one place!
 
