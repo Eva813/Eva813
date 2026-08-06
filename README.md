@@ -27,11 +27,11 @@ Tired of your AI prompts being scattered everywhere? PromptBear helps you organi
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Skill 撰寫指南：Anthropic 工程師親授實戰心得](https://eva813.github.io/2026/08/05/Claude-Code-Skill-1/)
 - [JavaScript 的 Explicit Resource Management 筆記](https://eva813.github.io/2026/05/03/Explicit-Resource-Management/)
 - [建立名片自動建檔系統（Google Drive + Sheets + Gemini）](https://eva813.github.io/2025/12/24/nameCard-nauto/)
 - [刷題練習 - Merge-Sorted-Array](https://eva813.github.io/2025/10/04/Merge-Sorted-Array/)
 - [部署至 Vercel 遇到「Unexpected token &#39;&lt;&#39;」錯誤：原因與解法](https://eva813.github.io/2025/10/04/vercel-deploy/)
-- [刷題練習 - Merge-Two-Sorted-Lists](https://eva813.github.io/2025/10/04/Merge-Two-Sorted-Lists/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
